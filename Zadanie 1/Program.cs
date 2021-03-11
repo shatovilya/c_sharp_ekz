@@ -19,7 +19,7 @@ namespace Zadanie_1
             for (x = xo; x >= xk+dx; x += dx) //Заголовок
             {
                 y = x* Math.Sin(Math.Sqrt(x+b-0.0084));
-                Console.WriteLine(" x= " + x + '\t' + " y= " + y);
+                Console.WriteLine(String.Format("x={0:0.00} y={1:0.00}", x,y)); 
             }
             Console.ReadLine();
         }
