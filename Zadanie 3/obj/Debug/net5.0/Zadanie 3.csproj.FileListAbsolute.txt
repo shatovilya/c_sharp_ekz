@@ -1,0 +1,16 @@
+D:\OneDrive\Education\NGIEU\Сессия зимняя 2021\Основы программирования\c_sharp_ekz\Zadanie 3\obj\Debug\net5.0\Zadanie 3.csprojAssemblyReference.cache
+D:\OneDrive\Education\NGIEU\Сессия зимняя 2021\Основы программирования\c_sharp_ekz\Zadanie 3\obj\Debug\net5.0\Zadanie 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Education\NGIEU\Сессия зимняя 2021\Основы программирования\c_sharp_ekz\Zadanie 3\obj\Debug\net5.0\Zadanie 3.AssemblyInfoInputs.cache
+D:\OneDrive\Education\NGIEU\Сессия зимняя 2021\Основы программирования\c_sharp_ekz\Zadanie 3\obj\Debug\net5.0\Zadanie 3.AssemblyInfo.cs
+D:\OneDrive\Education\NGIEU\Сессия зимняя 2021\Основы программирования\c_sharp_ekz\Zadanie 3\obj\Debug\net5.0\Zadanie 3.csproj.CoreCompileInputs.cache
+D:\OneDrive\Education\NGIEU\Сессия зимняя 2021\Основы программирования\c_sharp_ekz\Zadanie 3\bin\Debug\net5.0\Zadanie 3.exe
+D:\OneDrive\Education\NGIEU\Сессия зимняя 2021\Основы программирования\c_sharp_ekz\Zadanie 3\bin\Debug\net5.0\Zadanie 3.deps.json
+D:\OneDrive\Education\NGIEU\Сессия зимняя 2021\Основы программирования\c_sharp_ekz\Zadanie 3\bin\Debug\net5.0\Zadanie 3.runtimeconfig.json
+D:\OneDrive\Education\NGIEU\Сессия зимняя 2021\Основы программирования\c_sharp_ekz\Zadanie 3\bin\Debug\net5.0\Zadanie 3.runtimeconfig.dev.json
+D:\OneDrive\Education\NGIEU\Сессия зимняя 2021\Основы программирования\c_sharp_ekz\Zadanie 3\bin\Debug\net5.0\Zadanie 3.dll
+D:\OneDrive\Education\NGIEU\Сессия зимняя 2021\Основы программирования\c_sharp_ekz\Zadanie 3\bin\Debug\net5.0\ref\Zadanie 3.dll
+D:\OneDrive\Education\NGIEU\Сессия зимняя 2021\Основы программирования\c_sharp_ekz\Zadanie 3\bin\Debug\net5.0\Zadanie 3.pdb
+D:\OneDrive\Education\NGIEU\Сессия зимняя 2021\Основы программирования\c_sharp_ekz\Zadanie 3\obj\Debug\net5.0\Zadanie 3.dll
+D:\OneDrive\Education\NGIEU\Сессия зимняя 2021\Основы программирования\c_sharp_ekz\Zadanie 3\obj\Debug\net5.0\ref\Zadanie 3.dll
+D:\OneDrive\Education\NGIEU\Сессия зимняя 2021\Основы программирования\c_sharp_ekz\Zadanie 3\obj\Debug\net5.0\Zadanie 3.pdb
+D:\OneDrive\Education\NGIEU\Сессия зимняя 2021\Основы программирования\c_sharp_ekz\Zadanie 3\obj\Debug\net5.0\Zadanie 3.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+﻿using System;
+
+
+namespace Zadanie_3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+        }
+    }
+}
